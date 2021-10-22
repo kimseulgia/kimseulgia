@@ -1,0 +1,7 @@
+2021-10-20 17:52:21.160 [INFORM]	 ========================================================== void ShowStartLog():34	PID:[23280]
+2021-10-20 17:52:21.161 [INFORM]	 =                 InstallManager Start                   = void ShowStartLog():35	PID:[23280]
+2021-10-20 17:52:21.161 [INFORM]	 ========================================================== void ShowStartLog():36	PID:[23280]
+2021-10-20 17:52:21.161 [INFORM]	 gateway.xml 경로 : /Applications/HIWARE 6/HIWARE/Config/gateways bool ConfigSetter::setGatewayXmlPath():59	PID:[23280]
+2021-10-20 17:52:21.162 [INFORM]	 설치 서버 명 : HIWARE void ConfigSetter::writeLog():106	PID:[23280]
+2021-10-20 17:52:21.162 [INFORM]	 설치 URL : (https://10.94.81.176:8443) void ConfigSetter::writeLog():107	PID:[23280]
+2021-10-20 17:52:21.418 [INFORM]	 Dock에 'HIWARE PSM Client Launcher v6.0.app' 등록 void InstallMgrMain::addDock():102	PID:[23280]
