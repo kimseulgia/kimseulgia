@@ -1,0 +1,405 @@
+[20211022 150955.526190](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = ad7b44c8-32fe-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 150955.526261](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = ad7b450e-32fe-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 150955.527508](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = ad7b44c8-32fe-11ec-8000-0a404906158c, API_ID = 0
+[20211022 150955.528049](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = ad7b450e-32fe-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151000.526468](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = b0764006-32fe-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151000.526544](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = b0764042-32fe-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151000.527171](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = b0764006-32fe-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151000.527985](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = b0764042-32fe-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151005.526752](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = b3713bb2-32fe-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151005.526822](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = b3713c0c-32fe-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151005.527425](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = b3713bb2-32fe-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151005.528225](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = b3713c0c-32fe-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151010.527039](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = b66c3786-32fe-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151010.527098](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = b66c37b8-32fe-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151010.527686](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = b66c3786-32fe-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151010.528907](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = b66c37b8-32fe-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151015.527296](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = b96731e8-32fe-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151015.527373](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = b967321a-32fe-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151015.528007](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = b96731e8-32fe-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151015.528768](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = b967321a-32fe-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151020.527581](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = bc622da8-32fe-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151020.527648](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = bc622df8-32fe-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151020.528210](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = bc622da8-32fe-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151020.528988](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = bc622df8-32fe-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151021.222334](INF) <RTMPService.cpp:256>  * RTM Send [ PingRequest ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, Info = 10.94.81.176:15000, RTM_ID = 0
+[20211022 151021.222407](INF) <RTMPService.cpp:256>  * RTM Send [ PingRequest ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, Info = 10.94.80.159:15000, RTM_ID = 1
+[20211022 151021.222821](INF) <MsgRTMPPingProc.cpp:30>  * RTM Recv [ PingResponse ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, RTM_ID = 0
+[20211022 151021.223632](INF) <MsgRTMPPingProc.cpp:30>  * RTM Recv [ PingResponse ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, RTM_ID = 1
+[20211022 151025.527844](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = bf5d2846-32fe-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151025.527937](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = bf5d28a0-32fe-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151025.528551](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = bf5d2846-32fe-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151025.529326](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = bf5d28a0-32fe-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151030.528145](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = c25824b0-32fe-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151030.528572](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = c2582550-32fe-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151030.529814](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = c25824b0-32fe-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151030.530544](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = c2582550-32fe-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151035.528990](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = c553360a-32fe-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151035.529071](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = c5533678-32fe-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151035.529674](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = c553360a-32fe-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151035.530443](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = c5533678-32fe-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151040.529284](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = c84e3210-32fe-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151040.529353](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = c84e3274-32fe-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151040.529911](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = c84e3210-32fe-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151040.530721](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = c84e3274-32fe-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151045.529554](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = cb492d26-32fe-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151045.529634](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = cb492d76-32fe-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151045.530208](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = cb492d26-32fe-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151045.531015](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = cb492d76-32fe-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151050.529839](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = ce4428b4-32fe-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151050.529916](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = ce442936-32fe-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151050.530506](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = ce4428b4-32fe-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151050.531255](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = ce442936-32fe-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151051.222589](INF) <RTMPService.cpp:256>  * RTM Send [ PingRequest ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, Info = 10.94.81.176:15000, RTM_ID = 0
+[20211022 151051.222666](INF) <RTMPService.cpp:256>  * RTM Send [ PingRequest ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, Info = 10.94.80.159:15000, RTM_ID = 1
+[20211022 151051.223119](INF) <MsgRTMPPingProc.cpp:30>  * RTM Recv [ PingResponse ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, RTM_ID = 0
+[20211022 151051.223929](INF) <MsgRTMPPingProc.cpp:30>  * RTM Recv [ PingResponse ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, RTM_ID = 1
+[20211022 151055.530136](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = d13f24f6-32fe-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151055.530203](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = d13f2546-32fe-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151055.530777](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = d13f24f6-32fe-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151055.531576](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = d13f2546-32fe-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151100.530403](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = d43a1fbc-32fe-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151100.530484](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = d43a2016-32fe-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151100.531088](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = d43a1fbc-32fe-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151100.531871](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = d43a2016-32fe-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151105.530695](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = d7351bd6-32fe-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151105.531146](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = d7351c3a-32fe-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151105.532312](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = d7351bd6-32fe-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151105.533179](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = d7351c3a-32fe-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151110.531646](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = da303172-32fe-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151110.531711](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = da3031f4-32fe-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151110.532327](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = da303172-32fe-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151110.533116](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = da3031f4-32fe-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151115.531938](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = dd2b2ce2-32fe-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151115.532021](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = dd2b2d3c-32fe-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151115.532633](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = dd2b2d3c-32fe-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151115.533402](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = dd2b2ce2-32fe-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151120.532236](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = e026297e-32fe-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151120.532308](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = e02629ce-32fe-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151120.532905](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = e02629ce-32fe-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151120.533702](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = e026297e-32fe-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151121.222851](INF) <RTMPService.cpp:256>  * RTM Send [ PingRequest ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, Info = 10.94.81.176:15000, RTM_ID = 0
+[20211022 151121.222931](INF) <RTMPService.cpp:256>  * RTM Send [ PingRequest ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, Info = 10.94.80.159:15000, RTM_ID = 1
+[20211022 151121.223357](INF) <MsgRTMPPingProc.cpp:30>  * RTM Recv [ PingResponse ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, RTM_ID = 0
+[20211022 151121.224159](INF) <MsgRTMPPingProc.cpp:30>  * RTM Recv [ PingResponse ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, RTM_ID = 1
+[20211022 151125.532510](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = e3212494-32fe-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151125.532596](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = e32124d0-32fe-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151125.533253](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = e32124d0-32fe-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151125.534460](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = e3212494-32fe-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151130.532812](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = e61c20f4-32fe-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151130.532887](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = e61c2144-32fe-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151130.533501](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = e61c2144-32fe-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151130.534296](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = e61c20f4-32fe-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151135.533099](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = e9171cc8-32fe-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151135.533180](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = e9171d22-32fe-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151135.533766](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = e9171d22-32fe-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151135.534553](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = e9171cc8-32fe-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151140.533377](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = ec121810-32fe-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151140.533449](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = ec121856-32fe-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151140.534624](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = ec121856-32fe-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151140.535401](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = ec121810-32fe-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151145.534246](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = ef0d2a64-32fe-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151145.534327](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = ef0d2a8c-32fe-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151145.534934](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = ef0d2a8c-32fe-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151145.535716](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = ef0d2a64-32fe-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151150.534538](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = f2082642-32fe-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151150.534622](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = f2082688-32fe-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151150.535257](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = f2082688-32fe-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151150.536045](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = f2082642-32fe-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151151.223121](INF) <RTMPService.cpp:256>  * RTM Send [ PingRequest ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, Info = 10.94.81.176:15000, RTM_ID = 0
+[20211022 151151.223207](INF) <RTMPService.cpp:256>  * RTM Send [ PingRequest ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, Info = 10.94.80.159:15000, RTM_ID = 1
+[20211022 151151.223692](INF) <MsgRTMPPingProc.cpp:30>  * RTM Recv [ PingResponse ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, RTM_ID = 0
+[20211022 151151.224488](INF) <MsgRTMPPingProc.cpp:30>  * RTM Recv [ PingResponse ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, RTM_ID = 1
+[20211022 151155.534836](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = f503227a-32fe-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151155.534928](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = f50322d4-32fe-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151155.535553](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = f50322d4-32fe-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151155.536309](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = f503227a-32fe-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151200.535135](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = f7fe1ec6-32fe-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151200.535578](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = f7fe1f0c-32fe-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151200.537651](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = f7fe1f0c-32fe-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151200.537700](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = f7fe1ec6-32fe-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151205.536111](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = faf93534-32fe-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151205.536199](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = faf93598-32fe-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151205.536832](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = faf93598-32fe-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151205.537602](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = faf93534-32fe-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151210.536413](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = fdf431bc-32fe-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151210.536476](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = fdf43248-32fe-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151210.537050](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = fdf43248-32fe-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151210.537716](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = fdf431bc-32fe-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151215.536625](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 00ef2a48-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151215.536711](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 00ef2be2-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151215.537355](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 00ef2be2-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151215.538071](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 00ef2a48-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151220.536937](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 03ea26c6-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151220.537005](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 03ea2702-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151220.538197](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 03ea2702-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151220.538406](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 03ea26c6-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151221.223388](INF) <RTMPService.cpp:256>  * RTM Send [ PingRequest ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, Info = 10.94.81.176:15000, RTM_ID = 0
+[20211022 151221.223455](INF) <RTMPService.cpp:256>  * RTM Send [ PingRequest ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, Info = 10.94.80.159:15000, RTM_ID = 1
+[20211022 151221.223883](INF) <MsgRTMPPingProc.cpp:30>  * RTM Recv [ PingResponse ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, RTM_ID = 0
+[20211022 151221.224735](INF) <MsgRTMPPingProc.cpp:30>  * RTM Recv [ PingResponse ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, RTM_ID = 1
+[20211022 151225.537200](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 06e521e6-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151225.537265](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 06e5222c-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151225.537807](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 06e5222c-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151225.538607](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 06e521e6-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151230.537472](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 09e01cf2-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151230.537552](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 09e01d2e-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151230.538187](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 09e01d2e-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151230.538964](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 09e01cf2-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151235.537760](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 0cdb18c6-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151235.538189](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 0cdb1916-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151235.540049](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 0cdb1916-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151235.540197](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 0cdb18c6-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151240.538673](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 0fd62cdc-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151240.538748](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 0fd62d40-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151240.539354](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 0fd62d40-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151240.540126](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 0fd62cdc-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151245.538957](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 12d1289c-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151245.539024](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 12d128c4-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151245.539598](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 12d128c4-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151245.540391](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 12d1289c-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151250.539220](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 15cc236c-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151250.539282](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 15cc23c6-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151250.539831](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 15cc23c6-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151250.540604](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 15cc236c-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151251.223632](INF) <RTMPService.cpp:256>  * RTM Send [ PingRequest ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, Info = 10.94.80.159:15000, RTM_ID = 1
+[20211022 151251.223701](INF) <RTMPService.cpp:256>  * RTM Send [ PingRequest ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, Info = 10.94.81.176:15000, RTM_ID = 0
+[20211022 151251.224150](INF) <MsgRTMPPingProc.cpp:30>  * RTM Recv [ PingResponse ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, RTM_ID = 0
+[20211022 151251.224949](INF) <MsgRTMPPingProc.cpp:30>  * RTM Recv [ PingResponse ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, RTM_ID = 1
+[20211022 151255.539474](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 18c71db0-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151255.539536](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 18c71e32-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151255.540072](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 18c71e32-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151255.540895](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 18c71db0-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151300.539728](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 1bc21826-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151300.539790](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 1bc21876-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151300.540339](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 1bc21876-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151300.541131](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 1bc21826-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151305.539988](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 1ebd12ba-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151305.540073](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 1ebd12f6-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151305.540712](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 1ebd12f6-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151305.541478](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 1ebd12ba-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151310.540283](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 21b80ee8-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151310.540350](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 21b80fa6-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151310.541026](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 21b80fa6-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151310.541596](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 21b80ee8-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151315.540486](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 24b30742-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151315.540566](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 24b30936-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151315.541182](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 24b30936-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151315.541972](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 24b30742-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151320.540772](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 27ae02c6-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151320.540851](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 27ae0320-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151320.542238](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 27ae0320-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151320.542959](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 27ae02c6-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151321.223890](INF) <RTMPService.cpp:256>  * RTM Send [ PingRequest ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, Info = 10.94.80.159:15000, RTM_ID = 1
+[20211022 151321.223985](INF) <RTMPService.cpp:256>  * RTM Send [ PingRequest ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, Info = 10.94.81.176:15000, RTM_ID = 0
+[20211022 151321.224444](INF) <MsgRTMPPingProc.cpp:30>  * RTM Recv [ PingResponse ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, RTM_ID = 0
+[20211022 151321.225249](INF) <MsgRTMPPingProc.cpp:30>  * RTM Recv [ PingResponse ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, RTM_ID = 1
+[20211022 151325.541814](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 2aa91c0e-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151325.541890](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 2aa91c54-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151325.542534](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 2aa91c54-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151325.543313](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 2aa91c0e-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151330.542115](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 2da41846-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151330.542191](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 2da41878-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151330.542807](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 2da41878-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151330.543505](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 2da41846-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151330.745628](INF) <SessionManager.cpp:31> Insert Service. - SKey = 2dc32524-32ff-11ec-8000-0a404906158c, Current Session Count = 1
+[20211022 151330.746264](INF) <AcceptSvc.cpp:60> Established Client Connection. - SessKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151330.800184](INF) <MsgDevConnAuthProc.cpp:162>  * Client Recv [ DevConnAuthMsg ] - Code = 0, CKey = 38413057-bd58-4ed4-86c8-e525fb63ce82
+[20211022 151330.800408](INF) <MsgDevConnAuthProc.cpp:78> <STEP 1> : Client new authentication - ConnKey = 38413057-bd58-4ed4-86c8-e525fb63ce82
+[20211022 151330.800438](INF) <AuthServiceManager.cpp:493>  * API Send [ EquipmentAuthenticateRequest ] - Code = 201, SKey = 2dc32524-32ff-11ec-8000-0a404906158c, Tag = 2dcb83b8-32ff-11ec-8000-0a404906158c
+[20211022 151330.801735](INF) <MsgResEquipmentAuth.cpp:216>  * API Recv [ EquipmentAuthenticateResponse ] - Code = 202, SKey = 2dc32524-32ff-11ec-8000-0a404906158c, Tag = 2dcb83b8-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151330.801790](INF) <MsgResEquipmentAuth.cpp:81> <STEP 2> : Client authentication success - SessKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151330.801829](INF) <AuthServiceManager.cpp:1157>  * API Send [ GetEquipmentAccessContextRequest ] - Code = 1801, SKey = 2dc32524-32ff-11ec-8000-0a404906158c, Tag = 2dcbb9fa-32ff-11ec-8000-0a404906158c
+[20211022 151330.802688](INF) <MsgResGetEquipmentAccessContextProc.cpp:190>  * API Recv [ GetEquipmentAccessContextResponse ] - Code = 1802, SKey = 2dc32524-32ff-11ec-8000-0a404906158c, Tag = 2dcbb9fa-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151330.802720](INF) <MsgResGetEquipmentAccessContextProc.cpp:193>   - clientRequestKey = 2dcbb9fa-32ff-11ec-8000-0a404906158c
+[20211022 151330.802739](INF) <MsgResGetEquipmentAccessContextProc.cpp:169>  * Client Send [ DevConnAuthMsg ] - Code = 256, Res = 0, CKey = 38413057-bd58-4ed4-86c8-e525fb63ce82
+[20211022 151330.854479](INF) <MsgDevConnProc.cpp:46>  * Client Recv [ DevConnMsg ] - Code = 1, CKey = 38413057-bd58-4ed4-86c8-e525fb63ce82
+[20211022 151330.854534](INF) <MsgDevConnProc.cpp:84> Creating Connector. - Device IP = 10.0.154.30, Port = 22, Protocol = SSH, SGS = true
+[20211022 151330.854558](INF) <Ssh2ConnSvc.cpp:48> Generate SSH Connector. - CouplerKey = 2dc32524-32ff-11ec-8000-0a404906158c, ConnKey = 38413057-bd58-4ed4-86c8-e525fb63ce82, RTM_ID = 0
+[20211022 151330.862614](INF) <Ssh2ConnSvc.cpp:458> <STEP 4> : Device connection success - Connkey = 38413057-bd58-4ed4-86c8-e525fb63ce82, CouplerKey = 2dc32524-32ff-11ec-8000-0a404906158c, IP = 10.0.154.30
+[20211022 151330.862900](INF) <Ssh2ConnSvc.cpp:97> START_AFTER_RECV flag is Off.
+[20211022 151330.877595](INF) <Ssh2Logger.cpp:23> Recv SSH Version Message from Device - Ver = 2dc32524-32ff-11ec-8000-0a404906158c, CPKey = SSH-2.0-HIWARE6
+[20211022 151330.877877](INF) <Ssh2Manager.cpp:827> Send SSH Version Message to Device - CPKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151330.880523](INF) <Ssh2Logger.cpp:23> SshClient : OnKexInitReceived() - : CPKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151330.880556](INF) <Ssh2Logger.cpp:23> SshClient : kex : curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha256,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1
+[20211022 151330.880573](INF) <Ssh2Logger.cpp:23> SshClient : hostkey : ssh-rsa,rsa-sha2-512,rsa-sha2-256,ecdsa-sha2-nistp256,ssh-ed25519
+[20211022 151330.880589](INF) <Ssh2Logger.cpp:23> SshClient : cipher c2s : chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr,aes128-gcm@openssh.com,aes256-gcm@openssh.com,aes128-cbc,aes192-cbc,aes256-cbc,blowfish-cbc,cast128-cbc,3des-cbc
+[20211022 151330.880605](INF) <Ssh2Logger.cpp:23> SshClient : cipher s2c : chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr,aes128-gcm@openssh.com,aes256-gcm@openssh.com,aes128-cbc,aes192-cbc,aes256-cbc,blowfish-cbc,cast128-cbc,3des-cbc
+[20211022 151330.880622](INF) <Ssh2Logger.cpp:23> SshClient : hmac c2s : umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1
+[20211022 151330.880641](INF) <Ssh2Logger.cpp:23> SshClient : hmac s2c : umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1
+[20211022 151330.880656](INF) <Ssh2Manager.cpp:833> SshClient : Recv Key Ex Msg From Device. CPKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151330.894194](INF) <Ssh2Logger.cpp:23> SshClient : SendNewKeyMessage() - Start! : CPKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151330.894629](INF) <Ssh2Logger.cpp:23> SshClient : ComputeKey - Start! : CPKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151330.894695](INF) <Ssh2Logger.cpp:23> SshClient : onSendNewKey() : CPKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151330.894718](INF) <Ssh2Logger.cpp:23> SshClient : OnNewKeysReceived() - Start! : CPKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151330.894735](INF) <Ssh2Logger.cpp:23> SshClient : SendKeepTossMessage - Start! : CPKey = 2dc32524-32ff-11ec-8000-0a404906158c qKeepSize = 0
+[20211022 151330.894752](INF) <Ssh2Logger.cpp:23> SshClient : onRecvNewKey() - NewKey! : CPKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151330.897345](INF) <Ssh2Logger.cpp:23> SshServer : OnKexInitReceived() Start KeepMessage - : CPKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151330.897374](INF) <Ssh2Logger.cpp:23> SshServer : kex : curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group14-sha256,diffie-hellman-group14-sha1,ext-info-c
+[20211022 151330.897393](INF) <Ssh2Logger.cpp:23> SshServer : hostkey : ecdsa-sha2-nistp256-cert-v01@openssh.com,ecdsa-sha2-nistp384-cert-v01@openssh.com,ecdsa-sha2-nistp521-cert-v01@openssh.com,ssh-ed25519-cert-v01@openssh.com,rsa-sha2-512-cert-v01@openssh.com,rsa-sha2-256-cert-v01@openssh.com,ssh-rsa-cert-v01@openssh.com,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,ssh-ed25519,rsa-sha2-512,rsa-sha2-256,ssh-rsa
+[20211022 151330.897408](INF) <Ssh2Logger.cpp:23> SshServer : cipher c2s : chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr,aes128-gcm@openssh.com,aes256-gcm@openssh.com
+[20211022 151330.897424](INF) <Ssh2Logger.cpp:23> SshServer : cipher s2c : chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr,aes128-gcm@openssh.com,aes256-gcm@openssh.com
+[20211022 151330.897440](INF) <Ssh2Logger.cpp:23> SshServer : hmac c2s : umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1
+[20211022 151330.897455](INF) <Ssh2Logger.cpp:23> SshServer : hmac s2c : umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1
+[20211022 151330.946062](INF) <Ssh2Logger.cpp:23> SshServer : SendNewKeyMessage() - Start! : CPKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151330.946509](INF) <Ssh2Logger.cpp:23> SshServer : ComputeKey - Start! : CPKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151330.946561](INF) <Ssh2Logger.cpp:23> SshServer : onSendNewKey() : CPKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151332.246888](INF) <Ssh2Logger.cpp:23> SshServer : OnNewKeysReceived() - Start! : CPKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151332.246950](INF) <Ssh2Logger.cpp:23> SshServer : SendKeepTossMessage - Start! : CPKey = 2dc32524-32ff-11ec-8000-0a404906158c qKeepSize = 0
+[20211022 151332.246970](INF) <Ssh2Logger.cpp:23> SshServer : SSHServer::onRecvNewKey() - NewKey! : CPKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151332.308432](INF) <Ssh2Manager.cpp:88> SshServer : Recv Service Request Message - ServiceName = ssh-userauth, CPKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151332.311631](INF) <Ssh2Manager.cpp:859> SshClient : Recv Service Accept Message - ServiceName = ssh-userauth, CPKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151332.364896](INF) <Ssh2Manager.cpp:96> SshServer : Recv User Auth Request Message - MethodName = none, ID = stockplus, CPKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151332.364967](INF) <Ssh2Manager.cpp:117> SshServer : UserAuthReq - SGS = On, LoginCode = , bReplace = Off, CPKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151332.364998](INF) <AuthServiceManager.cpp:1197>  * API Send [ GetEquipmentAccountContextRequest ] - Code = 1901, SKey = 2dc32524-32ff-11ec-8000-0a404906158c, Tag = 2eba3f4e-32ff-11ec-8000-0a404906158c
+[20211022 151332.372262](INF) <MsgResGetEquipmentAccountContextProc.cpp:216>  * API Recv [ GetEquipmentAccountContextResponse ] - Code = 1902, SKey = 2dc32524-32ff-11ec-8000-0a404906158c, Tag = 2eba3f4e-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151332.372310](INF) <MsgResGetEquipmentAccountContextProc.cpp:219>   - clientRequestKey = 2eba3f4e-32ff-11ec-8000-0a404906158c
+[20211022 151332.376232](INF) <Ssh2Manager.cpp:1015> SshClient : Recv User Auth Failure Message - CPKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151332.376275](INF) <Ssh2Manager.cpp:1037> SshClient : Authentication Name - publickey:1, CPKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151332.376292](INF) <Ssh2Manager.cpp:1037> SshClient : Authentication Name - gssapi-keyex:2, CPKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151332.376308](INF) <Ssh2Manager.cpp:1037> SshClient : Authentication Name - gssapi-with-mic:3, CPKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151332.376323](INF) <Ssh2Manager.cpp:1037> SshClient : Authentication Name - password:4, CPKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151332.376338](INF) <Ssh2Manager.cpp:1047> SshClient : pu = 1, pw = 4, ki = 0
+[20211022 151332.376353](INF) <Ssh2Manager.cpp:1173> AUTH Type is UKNONWN or NONE. Send Toss. - CPKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151332.436995](INF) <Ssh2Manager.cpp:96> SshServer : Recv User Auth Request Message - MethodName = publickey, ID = stockplus, CPKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151332.437052](INF) <Ssh2Manager.cpp:117> SshServer : UserAuthReq - SGS = On, LoginCode = 2, bReplace = Off, CPKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151332.437070](MAJ) <Ssh2Manager.cpp:315> in case of SSH Key Login, Manual Login is not Supported. - AuthState = 2, CPKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151332.437148](INF) <SessionCoupler.cpp:308> Send Login Message To API with SsInfo. - CKey = 38413057-bd58-4ed4-86c8-e525fb63ce82, SKey = 2dc32524-32ff-11ec-8000-0a404906158c, Code = 3, SsInfo = NotNULL
+[20211022 151332.437168](ERR) <Ssh2ChannelManager.cpp:396> Can not Found Channel Information. - SKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151332.437194](INF) <AuthServiceManager.cpp:262>  * API Send [ EquipmentLoginEventRequest ] - Code = 601, SKey = 2dc32524-32ff-11ec-8000-0a404906158c, Tag = 2ec54380-32ff-11ec-8000-0a404906158c
+[20211022 151332.447514](INF) <MsgResDevConnLogProc.cpp:137>  * API Recv [ EquipmentLoginEventResponse ] - Code = 602, SKey = 2dc32524-32ff-11ec-8000-0a404906158c, Tag = 2ec54380-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151332.488804](INF) <AcceptSvc.cpp:70> AcceptSvc Disconnect with Client. - SessKey = 2dc32524-32ff-11ec-8000-0a404906158c
+[20211022 151332.488863](INF) <SessionCoupler.cpp:648> Disconnecting Src - CouplerKey = 2dc32524-32ff-11ec-8000-0a404906158c, ExitType = 1
+[20211022 151332.488944](INF) <SessionManager.cpp:66> Erase Service. SessKey = 2dc32524-32ff-11ec-8000-0a404906158c, Current Session Count = 0
+[20211022 151332.488993](INF) <Ssh2ConnSvc.cpp:111> Ssh2ConnSvc Disconnect with Device.
+[20211022 151332.989134](INF) <Ssh2ConnSvc.cpp:122> Device DisConnection - IP = 10.0.154.30, Type = 1, Coupler = 2dc32524-32ff-11ec-8000-0a404906158c, ConnKey = 38413057-bd58-4ed4-86c8-e525fb63ce82
+[20211022 151332.989201](INF) <Ssh2ConnSvc.cpp:145> No More opened ssh Channel. - Coupler = 2dc32524-32ff-11ec-8000-0a404906158c, ConnKey = 38413057-bd58-4ed4-86c8-e525fb63ce82
+[20211022 151332.989220](INF) <SessionCoupler.cpp:375> Send Logout Message To API. - CKey = 38413057-bd58-4ed4-86c8-e525fb63ce82, SKey = 2dc32524-32ff-11ec-8000-0a404906158c, Code = 1(1)
+[20211022 151332.989249](INF) <AuthServiceManager.cpp:378>  * API Send [ EquipmentLogoutEventRequest ] - Code = 701, SKey = 2dc32524-32ff-11ec-8000-0a404906158c, Tag = 2f19801c-32ff-11ec-8000-0a404906158c
+[20211022 151332.989347](INF) <SessionCoupler.cpp:676> Disconnecting Dest - CouplerKey = 2dc32524-32ff-11ec-8000-0a404906158c, ExitType = 2
+[20211022 151332.990466](INF) <MsgResDevDisConnLogProc.cpp:79>  * API Recv [ EquipmentLogoutEventResponse ] - Code = 702, SKey = 2dc32524-32ff-11ec-8000-0a404906158c, Tag = 2f19801c-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151335.542394](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 309f13ac-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151335.542483](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 309f13e8-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151335.543128](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 309f13e8-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151335.543894](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 309f13ac-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151340.542705](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 339a105c-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151340.542792](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 339a10ac-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151340.543446](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 339a10ac-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151340.544233](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 339a105c-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151345.543013](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 36950cda-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151345.543101](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 36950dc0-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151345.543712](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 36950dc0-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151345.544514](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 36950cda-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151350.543325](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 39900980-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151350.543411](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 399009c6-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151350.544905](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 399009c6-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151350.545683](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 39900980-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151351.224190](INF) <RTMPService.cpp:256>  * RTM Send [ PingRequest ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, Info = 10.94.80.159:15000, RTM_ID = 1
+[20211022 151351.224276](INF) <RTMPService.cpp:256>  * RTM Send [ PingRequest ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, Info = 10.94.81.176:15000, RTM_ID = 0
+[20211022 151351.224731](INF) <MsgRTMPPingProc.cpp:30>  * RTM Recv [ PingResponse ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, RTM_ID = 0
+[20211022 151351.225515](INF) <MsgRTMPPingProc.cpp:30>  * RTM Recv [ PingResponse ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, RTM_ID = 1
+[20211022 151355.544459](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 3c8b2656-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151355.544549](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 3c8b2692-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151355.545231](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 3c8b2692-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151355.545997](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 3c8b2656-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151400.544773](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 3f86231a-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151400.544851](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 3f862374-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151400.545508](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 3f862374-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151400.546253](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 3f86231a-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151405.545083](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 42811fde-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151405.545513](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 42812024-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151405.546632](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 42812024-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151405.547355](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 42811fde-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151410.546146](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 457c39c6-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151410.546212](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 457c3a16-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151410.546840](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 457c3a16-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151410.547585](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 457c39c6-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151415.546419](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 487734f0-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151415.546504](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 48773536-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151415.547120](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 48773536-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151415.547899](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 487734f0-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151420.546718](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 4b72311e-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151420.546804](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 4b723164-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151420.547442](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 4b723164-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151420.548215](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 4b72311e-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151421.224478](INF) <RTMPService.cpp:256>  * RTM Send [ PingRequest ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, Info = 10.94.80.159:15000, RTM_ID = 1
+[20211022 151421.224563](INF) <RTMPService.cpp:256>  * RTM Send [ PingRequest ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, Info = 10.94.81.176:15000, RTM_ID = 0
+[20211022 151421.225043](INF) <MsgRTMPPingProc.cpp:30>  * RTM Recv [ PingResponse ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, RTM_ID = 0
+[20211022 151421.225810](INF) <MsgRTMPPingProc.cpp:30>  * RTM Recv [ PingResponse ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, RTM_ID = 1
+[20211022 151425.547034](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 4e6d2e0a-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151425.547389](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 4e6d2e5a-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151425.548024](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 4e6d2e5a-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151425.548834](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 4e6d2e0a-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151430.547590](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 51683424-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151430.547671](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 516834a6-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151430.548309](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 516834a6-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151430.549105](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 51683424-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151435.547883](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 54633020-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151435.547976](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 54633098-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151435.548613](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 54633098-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151435.549386](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 54633020-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151440.548192](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 575e2ca8-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151440.548285](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 575e2d02-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151440.548889](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 575e2d02-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151440.549690](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 575e2ca8-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151445.548504](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 5a592944-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151445.548587](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 5a59298a-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151445.549235](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 5a59298a-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151445.550039](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 5a592944-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151450.548798](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 5d54255e-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151450.548876](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 5d5425cc-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151450.549499](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 5d5425cc-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151450.550314](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 5d54255e-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151451.224763](INF) <RTMPService.cpp:256>  * RTM Send [ PingRequest ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, Info = 10.94.80.159:15000, RTM_ID = 1
+[20211022 151451.224827](INF) <RTMPService.cpp:256>  * RTM Send [ PingRequest ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, Info = 10.94.81.176:15000, RTM_ID = 0
+[20211022 151451.225257](INF) <MsgRTMPPingProc.cpp:30>  * RTM Recv [ PingResponse ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, RTM_ID = 0
+[20211022 151451.226081](INF) <MsgRTMPPingProc.cpp:30>  * RTM Recv [ PingResponse ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, RTM_ID = 1
+[20211022 151455.549095](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 604f2178-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151455.549171](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 604f21dc-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151455.549777](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 604f21dc-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151455.550565](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 604f2178-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151500.549401](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 634a1dec-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151500.549761](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 634a1d92-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151500.551732](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 634a1d92-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151500.552338](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 634a1dec-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151505.550294](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 664530e0-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151505.550373](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 66453130-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151505.550979](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 66453130-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151505.551769](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 664530e0-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151510.550581](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 69402d04-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151510.550653](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 69402ce6-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 151510.551346](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 69402d04-32ff-11ec-8000-0a404906158c, API_ID = 0
+[20211022 151510.552079](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 69402ce6-32ff-11ec-8000-0a404906158c, API_ID = 1
+[20211022 151515.550866](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 6c3b28ba-32ff-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 151515.550959](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 6c3b291e-32ff-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 000001.765558](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 91107df0-327f-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 000001.765740](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 91107e68-327f-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 000001.766391](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 91107df0-327f-11ec-8000-0a404906158c, API_ID = 0
+[20211022 000001.767179](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 91107e68-327f-11ec-8000-0a404906158c, API_ID = 1
+[20211022 000006.765981](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 940b7eba-327f-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 000006.766654](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 940b7ef6-327f-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 000006.769251](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 940b7eba-327f-11ec-8000-0a404906158c, API_ID = 0
+[20211022 000006.770030](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 940b7ef6-327f-11ec-8000-0a404906158c, API_ID = 1
+[20211022 000011.767454](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 9706a90a-327f-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 000011.767540](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 9706a946-327f-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 000011.768179](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 9706a90a-327f-11ec-8000-0a404906158c, API_ID = 0
+[20211022 000011.768972](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 9706a946-327f-11ec-8000-0a404906158c, API_ID = 1
+[20211022 000016.767755](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 9a01a56a-327f-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 000016.767843](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 9a01a5ce-327f-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 000016.768473](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 9a01a56a-327f-11ec-8000-0a404906158c, API_ID = 0
+[20211022 000016.769246](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 9a01a5ce-327f-11ec-8000-0a404906158c, API_ID = 1
+[20211022 000020.540620](INF) <RTMPService.cpp:256>  * RTM Send [ PingRequest ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, Info = 10.94.80.159:15000, RTM_ID = 1
+[20211022 000020.540706](INF) <RTMPService.cpp:256>  * RTM Send [ PingRequest ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, Info = 10.94.81.176:15000, RTM_ID = 0
+[20211022 000020.541193](INF) <MsgRTMPPingProc.cpp:30>  * RTM Recv [ PingResponse ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, RTM_ID = 0
+[20211022 000020.542002](INF) <MsgRTMPPingProc.cpp:30>  * RTM Recv [ PingResponse ] - Code = 3, Tag = 8cba056a-324c-11ec-8000-0a404906158c, RTM_ID = 1
+[20211022 000021.768066](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 9cfca206-327f-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 000021.768149](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 9cfca27e-327f-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 000021.768773](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 9cfca206-327f-11ec-8000-0a404906158c, API_ID = 0
+[20211022 000021.769546](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 9cfca27e-327f-11ec-8000-0a404906158c, API_ID = 1
+[20211022 000026.768360](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 9ff79e02-327f-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 000026.769231](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = 9ff79e70-327f-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 000026.770543](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 9ff79e02-327f-11ec-8000-0a404906158c, API_ID = 0
+[20211022 000026.771321](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = 9ff79e70-327f-11ec-8000-0a404906158c, API_ID = 1
+[20211022 000031.770092](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = a2f2d220-327f-11ec-8000-0a404906158c, Info = 10.94.81.176:11000, API_ID = 0
+[20211022 000031.770178](INF) <AuthService.cpp:147>  * API Send [ PingRequest ] - Code = 801, Key = 8cba056a-324c-11ec-8000-0a404906158c, Tag = a2f2d252-327f-11ec-8000-0a404906158c, Info = 10.94.80.159:11000, API_ID = 1
+[20211022 000031.770812](INF) <MsgResPingProc.cpp:56>  * API Recv [ PingResponse ] - Code = 802, Tag = a2f2d220-327f-11ec-8000-0a404906158c, API_ID = 0
